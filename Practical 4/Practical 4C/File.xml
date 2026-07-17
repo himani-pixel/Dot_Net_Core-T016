@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>Images/image_2.png</ImageUrl>
+		<NavigateUrl>https://himani.com</NavigateUrl>
+		<AlternateText>image_2</AlternateText>
+		<Height>100</Height>
+		<Width>100</Width>
+	</Ad>
+	<Ad>
+		<ImageUrl>Images/image_2.png</ImageUrl>
+		<NavigateUrl>https://himani.com</NavigateUrl>
+		<AlternateText>Himani</AlternateText>
+	</Ad>
+</Advertisements>
