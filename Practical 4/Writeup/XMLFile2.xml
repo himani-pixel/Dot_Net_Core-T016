@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+
+	<Ad>
+		<ImageUrl>~/Images/image.png</ImageUrl>
+		<NavigateUrl>https://www.google.com</NavigateUrl>
+		<AlternateText>Admissions Open</AlternateText>
+		<Impressions>50</Impressions>
+	</Ad>
+
+</Advertisements>
